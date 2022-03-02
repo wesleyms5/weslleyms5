@@ -2,7 +2,7 @@
 <p align='center'>
   I'm a C/C++ game developer from São Paulo, Brazil.
 </p>
-<p align="center"><img align="center" src="https://github-readme-stats-gamma-teal.vercel.app/api/top-langs/?username=k1tsunee&hide=javascript,html,css" alt="felipecolor9" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-gamma-teal.vercel.app/api/top-langs/?username=weslleyms5=javascript,html,css" alt="weslleyms5" /></p>
 <p align='center'>
   <a href="https://www.linkedin.com/in/wesleysotero/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
